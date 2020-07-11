@@ -1,7 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-Java_Basic.iml
+.idea/.
+*.iml
 out/
