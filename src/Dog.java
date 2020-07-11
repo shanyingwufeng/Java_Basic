@@ -23,4 +23,8 @@ public class Dog {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public int sum(int a, int b) {
+        return a + b;
+    }
 }

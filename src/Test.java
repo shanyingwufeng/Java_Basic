@@ -1,6 +1,8 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Dog dog = new Dog("tom", 2);
+        int x = dog.sum(1, 2);
+        System.out.println(x);
     }
 }
